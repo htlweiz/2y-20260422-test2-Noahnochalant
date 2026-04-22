@@ -1,0 +1,12 @@
+{
+    "cmake.options.statusBarVisibility": "compact",
+    "cmake.enableAutomaticKitScan": true,
+    "git.autofetch": true,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "chat.disableAIFeatures": true,
+    "github.copilot.enable": {"*": false},
+    "github.copilot.inlineSuggest.enable": false,
+}
